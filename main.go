@@ -6,8 +6,8 @@ import (
 	"github.com/qwerty2323/scm/order"
 	"github.com/qwerty2323/scm/product"
 	"github.com/qwerty2323/scm/supplier"
-	"gorm.io/gorm"
 	_ "gorm.io/driver/postgres"
+	"gorm.io/gorm"
 )
 
 func setupRoutes(app *fiber.App) {
