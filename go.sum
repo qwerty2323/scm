@@ -91,6 +91,12 @@ github.com/mattn/go-isatty v0.0.9/go.mod h1:YNRxwqDuOph6SZLI9vUUz6OYw3QyUt7WiY2y
 github.com/mattn/go-isatty v0.0.12/go.mod h1:cbi8OIDigv2wuxKPP5vlRcQ1OAZbq2CE4Kysco4FUpU=
 github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/qwerty2323/scm/order v0.0.0-20201203062644-8d9894275d2d h1:WLBuDEWAX82e61I+QZM9giZ/dl0noo3fTE5TN65xdSc=
+github.com/qwerty2323/scm/order v0.0.0-20201203062644-8d9894275d2d/go.mod h1:bS19rD9D/uN0Z7/zfsWHVjv6Ld7jKYQSTdNx7WwgXTo=
+github.com/qwerty2323/scm/product v0.0.0-20201203062644-8d9894275d2d h1:J13al7UvZh2FcuZRRbZu6NommTea6US/ujtUU6k6rP0=
+github.com/qwerty2323/scm/product v0.0.0-20201203062644-8d9894275d2d/go.mod h1:EE4isZoaXT6dY7wGsIKE54q6OKPMpUYT0apr6h5VlAg=
+github.com/qwerty2323/scm/supplier v0.0.0-20201203062644-8d9894275d2d h1:yGwQMFMCdwSxXGEKjB++/0Q8ZO5b2rzlCYzhCDF8fnc=
+github.com/qwerty2323/scm/supplier v0.0.0-20201203062644-8d9894275d2d/go.mod h1:ma/5NYBaGCJ4R1cN/xnnIYY3s44AKoYjAG52quJebFg=
 github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFRclV5y23lUDJ4=
 github.com/rs/xid v1.2.1/go.mod h1:+uKXf+4Djp6Md1KODXJxgGQPKngRmWyn10oCKFzNHOQ=
 github.com/rs/zerolog v1.13.0/go.mod h1:YbFCdg8HfsridGWAh22vktObvhZbQsZXe4/zB0OKkWU=
